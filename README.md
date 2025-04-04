@@ -192,7 +192,10 @@ where tweet_text LIKE '%CommBank%';
 ### Top 5 performing tweets 
   ![2](https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20popular%20tweets.png)
 
+### Hour with most to least engagement shown by popularity decline
+  ![3](https://github.com/Nidhi9608/-Commbank/blob/main/Hour%20with%20most%20to%20least%20engagement.png)
 
+  
 ## Reports
 
 ## Conclusion
