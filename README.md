@@ -80,8 +80,8 @@ VALUES
 select * from tweets;
 ```
 * **2. CRUD Operations**
-* Examine CommBank’s most popular tweets.
 ```sql 
+-- Examine CommBank’s most popular tweets.
 alter table tweets 
 add popularity int;
 update tweets
@@ -186,6 +186,10 @@ where tweet_text LIKE '%CommBank%';
 
 ```
 * **3. Data Visualization and distribution**
+
+## Reports
+
+## Conclusion
 
 
 
