@@ -186,10 +186,10 @@ where tweet_text LIKE '%CommBank%';
 
 ```
 ## **3. Data Visualization and distribution**
-# Summary of important metrics </font>
+# Summary of important metrics 
   ![1](https://github.com/Nidhi9608/-Commbank/blob/main/Summary%20of%20Key%20Metrics.png)
 
-# <code style="colour : blue"> Top 5 performing tweets </font>
+# Top 5 performing tweets 
   ![2](https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20popular%20tweets.png)
 
 
