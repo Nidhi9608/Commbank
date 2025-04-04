@@ -1,4 +1,4 @@
-## CommonBank 
+# CommonBank 
 * **Project Title:** CommonBank
 * **Database:** twitter_db
 
@@ -10,7 +10,7 @@ Due to shortage of information on official website I got some sample data and cr
   2. CRUD operations: Extraction, combination and manipulation of data.
   3. Data Visualization and distribution: Representation of data through charts and graphs.
 
-* **1. Database Designing**     
+## **1. Database Designing**     
 ```sql
 -- create table tweets
 create table tweets (
@@ -79,7 +79,7 @@ VALUES
 
 select * from tweets;
 ```
-* **2. CRUD Operations**
+## **2. CRUD Operations**
 ```sql 
 -- Examine CommBank’s most popular tweets.
 alter table tweets 
@@ -185,12 +185,12 @@ from tweets
 where tweet_text LIKE '%CommBank%';
 
 ```
-* **3. Data Visualization and distribution**
-* <font colour="blue"> Summary of important metrics </font>
-*  ![1](https://github.com/Nidhi9608/-Commbank/blob/main/Summary%20of%20Key%20Metrics.png)
+## **3. Data Visualization and distribution**
+* <code style="colour : blue"> Summary of important metrics </font>
+>  ![1](https://github.com/Nidhi9608/-Commbank/blob/main/Summary%20of%20Key%20Metrics.png)
 
-* <font colour="blue"> Top 5 performing tweets </font>
-*  ![2](https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20popular%20tweets.png)
+* <code style="colour : blue"> Top 5 performing tweets </font>
+>  ![2](https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20popular%20tweets.png)
 
 
 ## Reports
