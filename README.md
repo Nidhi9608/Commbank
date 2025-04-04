@@ -186,6 +186,12 @@ where tweet_text LIKE '%CommBank%';
 
 ```
 * **3. Data Visualization and distribution**
+* Summary of important metrics
+  ![https://github.com/Nidhi9608/-Commbank/blob/main/Summary%20of%20Key%20Metrics.png]
+
+* Top 5 performing tweets
+  ![https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20popular%20tweets.png]
+
 
 ## Reports
 
