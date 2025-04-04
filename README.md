@@ -6,11 +6,11 @@
 Due to shortage of information on official website I got some sample data and created a database twitter_db. This project will demonstrate engagement of the tweets on their twitter account by solving queries using the sample data and visually representing using Excel dashboard. The goal is to showcase skills in data analysis, data documentation, unstructured data and data visualization.
 
 ## Objectives
-  1. Set a database using 50 sample data. Create a database with table tweets and insert the sample values.
-  2. SQL Queries: Examine CommonBank most popular tweets through popularity of tweets.
-  3. CRUD operations: Extraction, combination and manipulation of data
-  4. Data Visualization and distribution: Representation of data through charts and graphs.
-     
+  1. Database Design: Create a database using 50 sample data. 
+  2. CRUD operations: Extraction, combination and manipulation of data.
+  3. Data Visualization and distribution: Representation of data through charts and graphs.
+
+* **1. Database Designing**     
 ```sql
 -- create table tweets
 create table tweets (
@@ -79,8 +79,8 @@ VALUES
 
 select * from tweets;
 ```
-
-**Examine CommBank’s most popular tweets.**
+* **2. CRUD Operations**
+* Examine CommBank’s most popular tweets.
 ```sql 
 alter table tweets 
 add popularity int;
@@ -185,7 +185,7 @@ from tweets
 where tweet_text LIKE '%CommBank%';
 
 ```
-
+* **3. Data Visualization and distribution**
 
 
 
