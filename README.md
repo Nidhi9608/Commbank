@@ -195,8 +195,12 @@ where tweet_text LIKE '%CommBank%';
 ### Hour with most to least engagement shown by popularity decline
   ![3](https://github.com/Nidhi9608/-Commbank/blob/main/Hour%20with%20most%20to%20least%20engagement.png)
 
+### Top 10 recurring words
+  ![4](https://github.com/Nidhi9608/-Commbank/blob/main/Top%2010%20recurring%20words.png)
+  * Common keywords 'the', 'is', 'and', 'to', 'for', 'in', 'of', 'on', 'a', 'at' were excluded as they are prepositions that cannot be avoided to form a sentence/tweet.
+    
 ### Sentiment distribution
-  ![4](https://github.com/Nidhi9608/-Commbank/blob/main/Sentiment%20distribution.png)
+  ![5](https://github.com/Nidhi9608/-Commbank/blob/main/Sentiment%20distribution.png)
 
 ### Trending sentiment over time
 
