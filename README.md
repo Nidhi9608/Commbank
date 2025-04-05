@@ -210,16 +210,11 @@ where tweet_text LIKE '%CommBank%';
   ![6](https://github.com/Nidhi9608/-Commbank/blob/main/Sentiment%20over%20time.png)
   * The peak points in this chart show positive responses whereas the bottom points show negative sentiments and the neutral sentiments are shown by points on the base scale 0.
 
-### Top 5 tweets with negative sentiment:
-  * The tweets with maximum negative sentiments are the most popular tweets.
-
-### Top 5 tweets with positive sentiment:
+### Top 5 tweets with negative, positive, neutral sentiment and tweets that mention CommBank:
+  ![7](https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20NPNC.png)
+  * The tweets with maximum negative sentiments have the most popularity.
   * Out of the tweets with maximum positive sentiments only one is included in 10 popular tweets.
-
-### Top 5 neutral tweets
-  * The above chart shows the high-performing tweets that did not have extreme reactions
-
-### Tweets that mention Commbank
+  * Tweets that did not have extreme reactions.
   * Tweets that included the company name Commbank.
      
 ## Reports
@@ -229,6 +224,6 @@ where tweet_text LIKE '%CommBank%';
 
 
 ## Conclusion
-
+This project demonstrates the application of SQL skills and Excel visualization skills in creating and managing unstructured data. It includes database creation, database setup, data manipulation, and advanced querying, providing a solid foundation for data insights and analysis. Multiple dashboards were created to display the insights visually. A single dashboard to highlight the key results to improve performance was created after rigorous analysis.  
 
 
