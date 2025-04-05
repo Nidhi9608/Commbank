@@ -219,11 +219,11 @@ where tweet_text LIKE '%CommBank%';
      
 ## Reports
  1. Database Schema: Detailed table columns and updation of tables.
- 2. Database Analysis:
- 3. Data Visualization:
+ 2. Trend Analysis: Insights into tweets that were trending according to the sentiments and timeline.
+ 3. Data Visualization: Dashboards created for deep understanding of the analysis.
 
 
 ## Conclusion
-This project demonstrates the application of SQL skills and Excel visualization skills in creating and managing unstructured data. It includes database creation, database setup, data manipulation, and advanced querying, providing a solid foundation for data insights and analysis. Multiple dashboards were created to display the insights visually. A single dashboard to highlight the key results to improve performance was created after rigorous analysis.  
+This project demonstrates the application of SQL skills and Excel visualization skills in creating and managing unstructured data. It includes database creation, database setup, data manipulation, and advanced querying, providing a solid foundation for data insights and analysis. Multiple dashboards were created to display the insights visually. A single dashboard to highlight the key results to improve performance was created after rigorous analysis. The findings of this project helped in understanding which type of content resonates with the audience. 
 
 
