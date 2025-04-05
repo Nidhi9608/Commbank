@@ -188,23 +188,45 @@ where tweet_text LIKE '%CommBank%';
 ## **3. Data Visualization and distribution**
 ### Summary of important metrics 
   ![1](https://github.com/Nidhi9608/-Commbank/blob/main/Summary%20of%20Key%20Metrics.png)
+  * The KPIs of this database are retweets, likes and views and the sum of these metrics called popularity.
 
 ### Top 5 performing tweets 
   ![2](https://github.com/Nidhi9608/-Commbank/blob/main/Top%205%20popular%20tweets.png)
-
+  * The tweets with maximum likes, views and retweets have negative sentiments.
+    
 ### Hour with most to least engagement shown by popularity decline
   ![3](https://github.com/Nidhi9608/-Commbank/blob/main/Hour%20with%20most%20to%20least%20engagement.png)
-
+  * Hour 11 has the most engagement.
+    
 ### Top 10 recurring words
   ![4](https://github.com/Nidhi9608/-Commbank/blob/main/Top%2010%20recurring%20words.png)
   * Common keywords 'the', 'is', 'and', 'to', 'for', 'in', 'of', 'on', 'a', 'at' were excluded as they are prepositions that cannot be avoided to form a sentence/tweet.
     
 ### Sentiment distribution
   ![5](https://github.com/Nidhi9608/-Commbank/blob/main/Sentiment%20distribution.png)
+  * Most tweets have positive reactions.
+    
+### Sentiment over time
+  ![6](https://github.com/Nidhi9608/-Commbank/blob/main/Sentiment%20over%20time.png)
+  * The peak points in this chart show positive responses whereas the bottom points show negative sentiments and the neutral sentiments are shown by points on the base scale 0.
 
-### Trending sentiment over time
+### Top 5 tweets with negative sentiment:
+  * The tweets with maximum negative sentiments are the most popular tweets.
 
+### Top 5 tweets with positive sentiment:
+  * Out of the tweets with maximum positive sentiments only one is included in 10 popular tweets.
+
+### Top 5 neutral tweets
+  * The above chart shows the high-performing tweets that did not have extreme reactions
+
+### Tweets that mention Commbank
+  * Tweets that included the company name Commbank.
+     
 ## Reports
+ 1. Database Schema: Detailed table columns and updation of tables.
+ 2. Database Analysis:
+ 3. Data Visualization:
+
 
 ## Conclusion
 
