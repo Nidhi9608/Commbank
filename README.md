@@ -195,7 +195,11 @@ where tweet_text LIKE '%CommBank%';
 ### Hour with most to least engagement shown by popularity decline
   ![3](https://github.com/Nidhi9608/-Commbank/blob/main/Hour%20with%20most%20to%20least%20engagement.png)
 
-  
+### Sentiment distribution
+  ![4](https://github.com/Nidhi9608/-Commbank/blob/main/Sentiment%20distribution.png)
+
+### Trending sentiment over time
+
 ## Reports
 
 ## Conclusion
