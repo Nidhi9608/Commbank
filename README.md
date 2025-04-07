@@ -1,5 +1,5 @@
-# CommonBank 
-* **Project Title:** CommonBank
+# Tweets Analysis 
+* **Project Title:** Tweets Analysis
 * **Database:** twitter_db
 
 ## Project Overview  
